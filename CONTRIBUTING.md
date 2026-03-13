@@ -175,6 +175,7 @@ If your token exists on other chains, you can include those addresses to help wi
 | `8453`             | Base              |
 | `9745`             | Plasma            |
 | `42161`            | Arbitrum One      |
+| `42220`            | Celo              |
 | `43114`            | Avalanche C-Chain |
 
 **Fields per chain entry:**

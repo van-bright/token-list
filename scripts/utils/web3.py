@@ -25,6 +25,7 @@ CHAIN_RPC_URLS = {
     "8453": os.environ.get("BASE_RPC_URL", "https://mainnet.base.org"),
     "9745": os.environ.get("PLASMA_RPC_URL", "https://rpc.plasma.to"),
     "42161": os.environ.get("ARBITRUM_RPC_URL", "https://arb1.arbitrum.io/rpc"),
+    "42220": os.environ.get("CELO_RPC_URL", "https://forno.celo.org"),
     "43114": os.environ.get("AVALANCHE_RPC_URL", "https://api.avax.network/ext/bc/C/rpc"),
 }
 
@@ -37,6 +38,7 @@ CHAIN_NAMES = {
     "8453": "Base",
     "9745": "Plasma",
     "42161": "Arbitrum One",
+    "42220": "Celo",
     "43114": "Avalanche",
 }
 ERC20_ABI = [

@@ -1,0 +1,19 @@
+{
+  "chainId": 143,
+  "address": "0x39bb4E0a204412bB98e821d25e7d955e69d40Fd1",
+  "name": "Mento British Pound",
+  "symbol": "GBPm",
+  "decimals": 18,
+  "extensions": {
+    "coinGeckoId": "celo-british-pound",
+    "bridgeInfo": {
+      "protocol": "Wormhole NTT",
+      "bridgeAddress": "0x7895D03FfDeb14a57eF79c21C3eA14dADf2a7c3f"
+    },
+    "crossChainAddresses": {
+      "42220": {
+        "address": "0xCCF663b1fF11028f0b19058d0f7B674004a40746"
+      }
+    }
+  }
+}

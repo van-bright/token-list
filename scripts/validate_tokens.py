@@ -45,6 +45,7 @@ KNOWN_CHAIN_IDS = {
     "8453",  # Base
     "9745",  # Plasma
     "42161",  # Arbitrum One
+    "42220",  # Celo
     "43114",  # Avalanche C-Chain
 }
 VALID_BRIDGE_PROTOCOLS = {
