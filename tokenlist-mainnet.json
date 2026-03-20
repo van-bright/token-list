@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2026-03-19T10:05:11.242584+00:00",
+  "timestamp": "2026-03-20T16:04:02.002590+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -949,6 +949,14 @@
     },
     {
       "chainId": 143,
+      "address": "0x8d3F9f9Eb2f5E8B48EFBB4074440D1E2A34Bc365",
+      "name": "RWA Backed Lending by Valos",
+      "symbol": "vUSD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/vUSD/logo.svg"
+    },
+    {
+      "chainId": 143,
       "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
       "name": "Wrapped eETH",
       "symbol": "weETH",
@@ -1133,7 +1141,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 32,
+    "minor": 33,
     "patch": 0
   }
 }
